@@ -1,7 +1,7 @@
 import { Dispatch, FormEvent, SetStateAction, useState } from "react"
 import { useFormik } from 'formik'
 import { AppBar, Avatar, Box, Button, Dialog, IconButton, Link, Menu, TextField, Toolbar, Tooltip } from '@mui/material';
-import { MinimialPageProps } from "../../pages/_app";
+import { MinimialPageProps } from "../../../pages/_app";
 import { default as NextLink } from "next/link";
 import { Stack } from "@mui/system";
 import { blue } from "@mui/material/colors";
